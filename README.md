@@ -6,3 +6,5 @@
   add random/repeat one function.
   update UI.
   
+# main photo
+![alt text](https://raw.github.com/emily800326/android_music/aa.png)
