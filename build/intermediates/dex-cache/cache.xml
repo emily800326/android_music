@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\iec060177\AndroidStudioProjects\SampleMPlayer\music-famabb\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\libs\internal_impl-23.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="C:\Users\iec060177\AndroidStudioProjects\SampleMPlayer\music-famabb\app\build\intermediates\pre-dexed\debug\internal_impl-23.3.0_b99fa5a68d7c0de3d4669ddb38721a6a7373ec76.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\iec060177\AndroidStudioProjects\SampleMPlayer\music-famabb\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="debf30ce0a7560396b6235edef77e447006454c2">
+        <dex dex="C:\Users\iec060177\AndroidStudioProjects\SampleMPlayer\music-famabb\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.3.0_0a9adfcce04d867bd502d664ede315a318488c70.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\iec060177\AndroidStudioProjects\SampleMPlayer\music-famabb\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="C:\Users\iec060177\AndroidStudioProjects\SampleMPlayer\music-famabb\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.3.0_013e5300a04e9090d843e0a2186ffc605d74c365.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\iec060177\AndroidStudioProjects\SampleMPlayer\music-famabb\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="57ae0d750ff83f0c738d21720224ac7ea866a094">
+        <dex dex="C:\Users\iec060177\AndroidStudioProjects\SampleMPlayer\music-famabb\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.1.0_bcf649d431337903d5e0b34d62e19f7907ccf573.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\iec060177\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\23.3.0\support-annotations-23.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="C:\Users\iec060177\AndroidStudioProjects\SampleMPlayer\music-famabb\app\build\intermediates\pre-dexed\debug\support-annotations-23.3.0_9c181be0c519beb1c8f86da15d2b969819cce08b.jar" />
+    </item>
+
+</items>
