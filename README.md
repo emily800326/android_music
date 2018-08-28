@@ -8,3 +8,4 @@
   
 # main photo
 ![alt text](https://github.com/emily800326/android_music/blob/master/aa.PNG?raw=trueg)
+![alt text](https://github.com/emily800326/android_music/blob/master/bb.PNG?raw=trueg)
